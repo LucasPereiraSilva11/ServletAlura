@@ -1,0 +1,5 @@
+out.println("<html>");
+		out.println("<body>");
+		out.println("Empresa: "+ nomeEmpresa +"!");
+		out.println("</body>");
+		out.println("</html>");

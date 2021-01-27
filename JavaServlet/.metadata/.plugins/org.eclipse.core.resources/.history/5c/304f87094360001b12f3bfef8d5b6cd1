@@ -1,0 +1,14 @@
+
+<%@ page
+	import="java.util.List, br.com.alura.gerenciador.servlet.Empresa"%>
+<html>
+<body>
+	Lista de Emrpresas
+	</br>
+	<ul>
+		<forEach> 
+		
+		</forEach>
+	</ul>
+</body>
+</html>

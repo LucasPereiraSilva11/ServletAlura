@@ -1,0 +1,11 @@
+<%
+	List<Empresa> list = new ArrayList()/
+%>
+<html>
+<body>
+	<ul>
+		for (Empresa empresa : lista) {
+		<li>+ empresa.getNome() +</li> }
+	</ul>
+</body>
+</html>
